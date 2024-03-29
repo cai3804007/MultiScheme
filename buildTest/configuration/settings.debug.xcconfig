@@ -1,0 +1,14 @@
+//
+//  settings.debug.xcconfig
+//  buildTest
+//
+//  Created by mbc on 2024/3/29.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "../../Pods/Target Support Files/Pods-buildTest/Pods-buildTest.debug.xcconfig"
+
+MainAppName = 测试
+
+CeshiKey = 测试的key
